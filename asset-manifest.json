@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/trabajofinal/static/css/main.69d06326.chunk.css",
+    "main.js": "/trabajofinal/static/js/main.136c0232.chunk.js",
+    "main.js.map": "/trabajofinal/static/js/main.136c0232.chunk.js.map",
+    "runtime-main.js": "/trabajofinal/static/js/runtime-main.16738d6e.js",
+    "runtime-main.js.map": "/trabajofinal/static/js/runtime-main.16738d6e.js.map",
+    "static/js/2.2cc7ef6e.chunk.js": "/trabajofinal/static/js/2.2cc7ef6e.chunk.js",
+    "static/js/2.2cc7ef6e.chunk.js.map": "/trabajofinal/static/js/2.2cc7ef6e.chunk.js.map",
+    "index.html": "/trabajofinal/index.html",
+    "precache-manifest.4a44ccdd9f9a5d9f2dfb680e04748b4e.js": "/trabajofinal/precache-manifest.4a44ccdd9f9a5d9f2dfb680e04748b4e.js",
+    "service-worker.js": "/trabajofinal/service-worker.js",
+    "static/css/main.69d06326.chunk.css.map": "/trabajofinal/static/css/main.69d06326.chunk.css.map",
+    "static/js/2.2cc7ef6e.chunk.js.LICENSE.txt": "/trabajofinal/static/js/2.2cc7ef6e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/trabajofinal/static/media/fondo.ac7d30f5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16738d6e.js",
+    "static/js/2.2cc7ef6e.chunk.js",
+    "static/css/main.69d06326.chunk.css",
+    "static/js/main.136c0232.chunk.js"
+  ]
+}
